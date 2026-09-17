@@ -1,0 +1,16 @@
+# Environment Variables & Secrets
+.env
+
+
+
+# Ignore virtual environment binaries & libraries, but keep the folder tracked
+flaskApp/Include/
+flaskApp/Lib/
+flaskApp/Scripts/
+flaskApp/share/
+flaskApp/pyvenv.cfg
+
+
+# Python Cache
+__pycache__/
+*.pyc
