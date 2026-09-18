@@ -1,0 +1,17 @@
+# Ignore secrets
+.env
+
+# Ignore entire virtual environment
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Ignore Python runtime files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
